@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "createjwt",
+  "version": "1.0.0",
+  "description": "Simple module that creates jwt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MostafaRoshdy",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
