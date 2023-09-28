@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "createjwt",
+  "name": "generate-jwt",
   "version": "1.0.0",
   "description": "Simple module that creates jwt",
   "main": "app.js",
@@ -8,8 +8,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "MostafaRoshdy",
-  "license": "ISC",
+  "license": "GPL-2.0",
   "dependencies": {
     "jsonwebtoken": "^9.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mostafaroshdy1/createJWT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mostafaroshdy1/createJWT/issues"
+  },
+  "homepage": "https://github.com/mostafaroshdy1/createJWT#readme"
 }
